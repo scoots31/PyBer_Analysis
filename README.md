@@ -5,23 +5,23 @@ The objective of this analysis is to review data from PyBer ride share company a
 
 ## Results
 
-![Fig1](https://user-images.githubusercontent.com/93485455/146702607-8869dae4-593b-487d-8f1f-821a2b7d3a4b.png#gh-dark-mode-only)
+![Fig1](https://user-images.githubusercontent.com/93485455/146709356-c3b43f01-eaa9-49e8-abfe-028b433b2952.jpg)
 
-![Fig2](https://user-images.githubusercontent.com/93485455/146702615-3683a0ce-8615-4821-a4df-7b7393b99a21.png#gh-dark-mode-only)
+![Fig2](https://user-images.githubusercontent.com/93485455/146709405-6969e62a-3a81-46b2-91b2-2d92b9d42f81.jpg)
 
-![Fig3](https://user-images.githubusercontent.com/93485455/146702622-36c55f87-4dff-4256-972a-c12c2108589b.png#gh-dark-mode-only)
+![Fig3](https://user-images.githubusercontent.com/93485455/146709416-1719c65e-57ff-4d17-9658-98cc5198abdb.jpg)
 
-![Fig4](https://user-images.githubusercontent.com/93485455/146702631-fe967c56-7035-4479-86e3-65cc7579e474.png#gh-dark-mode-only)
+![Fig4](https://user-images.githubusercontent.com/93485455/146709424-22182997-e74b-4b28-ba72-1bbe949bbfb6.jpg)
 
-![Fig5](https://user-images.githubusercontent.com/93485455/146702640-4b32dfac-beac-4dd3-bc31-0d028912fb87.png#gh-dark-mode-only)
+![Fig5](https://user-images.githubusercontent.com/93485455/146709470-d6f87580-0644-464f-80ad-9e9660b45f0e.jpg)
 
-![Fig6](https://user-images.githubusercontent.com/93485455/146702648-f4750f7f-5a90-461d-b2eb-9911fcc7f049.png#gh-dark-mode-only)
+![Fig6](https://user-images.githubusercontent.com/93485455/146709485-8cc798f3-ac66-48cb-bb69-8c45da293c43.jpg)
 
-![Fig7](https://user-images.githubusercontent.com/93485455/146702656-6ff034a0-c17f-42eb-bab7-8fff86a062ff.png#gh-dark-mode-only)
+![Fig7](https://user-images.githubusercontent.com/93485455/146709493-99d175cd-4c3b-4eff-9311-3f5a2c937658.jpg)
 
-![Screen Shot 2021-12-19 at 8 15 46 PM](https://user-images.githubusercontent.com/93485455/146702677-07e9c1ac-4a3d-4953-a92b-85919689d61a.png#gh-dark-mode-only)
+![Screen Shot 2021-12-19 at 8 15 46 PM](https://user-images.githubusercontent.com/93485455/146702677-07e9c1ac-4a3d-4953-a92b-85919689d61a.png)
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/93485455/146702695-7973a41e-0153-4f3b-b075-42e2aa563088.png#gh-dark-mode-only)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/93485455/146702695-7973a41e-0153-4f3b-b075-42e2aa563088.png)
 
 
 ## Summary
