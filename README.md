@@ -3,6 +3,14 @@
 ## Overview of the Analysis
 The objective of this analysis is to review data from PyBer ride share company and provide insight on the differences from their Urban, Suburban, and Rural markets.
 
+The analysis is based on the following data among the different city types:
+
+1. The percentage of total rides
+2. The percentage of total drivers
+3. The percentage of total fares
+4. The average fare per ride and driver
+5. The total fare by city type
+
 ## Results
 
 ![Fig1](https://user-images.githubusercontent.com/93485455/146709356-c3b43f01-eaa9-49e8-abfe-028b433b2952.jpg)
@@ -23,5 +31,14 @@ The objective of this analysis is to review data from PyBer ride share company a
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/93485455/146702695-7973a41e-0153-4f3b-b075-42e2aa563088.png)
 
+• Urban cities have the highest ridership demand
+• Rural cities have the highest average fare per ride
+• Urban cities have the most drivers compared to Suburban and Rural
+• Urban cities have the great amount of revenue
+
 
 ## Summary
+
+### Based on the analysis there are a few areas that could be optimized to yield potential revenue increases:
+1. Explore the growth potential of adding more riders in the rural areas. Because the fares from Rural cities are on average the highest any percentage of growth in    rideshare will yield higher revenues.
+2. 
