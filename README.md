@@ -32,13 +32,19 @@ The analysis is based on the following data among the different city types:
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/93485455/146702695-7973a41e-0153-4f3b-b075-42e2aa563088.png)
 
 • Urban cities have the highest ridership demand
+
 • Rural cities have the highest average fare per ride
+
 • Urban cities have the most drivers compared to Suburban and Rural
+
 • Urban cities have the great amount of revenue
+
 
 
 ## Summary
 
 ### Based on the analysis there are a few areas that could be optimized to yield potential revenue increases:
+
 1. Explore the growth potential of adding more riders in the rural areas. Because the fares from Rural cities are on average the highest any percentage of growth in    rideshare will yield higher revenues.
-2. 
+2. Possible increase of Urban fares. Even a small percentage increase could result in big results based on the large amount of riders.
+3. Marketing campaigns across each city type to build brand awareness centered around ease of use, safety, and convenience could only help grow revenue potential.
